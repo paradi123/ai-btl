@@ -33,5 +33,5 @@ Người dùng tương tác qua Telegram:
 
 ### 1. Clone dự án
 ```bash
-git clone https://github.com/ten_tai_khoan/phat-hien-benh-cay-chatbot.git
-cd phat-hien-benh-cay-chatbot
+git clone https://github.com/paradi123/ai-btl.git
+cd ai-btl
