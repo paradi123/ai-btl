@@ -11,7 +11,7 @@ Dự án kết hợp mô hình học sâu **YOLOv8** và **YOLOv11** để phát
 
 ## 📷 Mô hình phát hiện bệnh lá cây
 
-Sử dụng mô hình **YOLOv5** được huấn luyện với tập dữ liệu ảnh về lá cây bệnh (ví dụ: cháy lá, đốm nâu, vàng lá, nấm...). Mô hình đầu ra trả về vùng ảnh chứa bệnh và nhãn bệnh tương ứng.
+Sử dụng mô hình **YOLOv8** và **YOLOv11** được huấn luyện với tập dữ liệu ảnh về lá cây bệnh (ví dụ: cháy lá, đốm nâu, vàng lá, nấm...). Mô hình đầu ra trả về vùng ảnh chứa bệnh và nhãn bệnh tương ứng.
 
 ## 🧠 Phân tích bệnh với Gemini Flash
 
